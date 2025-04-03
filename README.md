@@ -17,14 +17,14 @@ A productivity-focused task management app conceptualized using Miro, emphasizin
 A visually appealing image gallery designed with smooth navigation, responsive layouts, and an immersive viewing experience.  
 
 ## Technologies Used  
-- **Frontend:** HTML, CSS (Add JavaScript if applicable)  
-- **UI/UX Tools:** Miro (for task management app)  
-- **Version Control & Deployment:** GitHub, (Add Vercel/Netlify if deployed)  
+- **Frontend:** HTML, CSS 
+- **UI/UX Tools:** Miro for task management app  
+- **Version Control & Deployment:** GitHub,Netlify  
 
 ## 📬 Contact Me  
 Let's connect! Feel free to reach out through:  
-- **GitHub:** (https://github.com/FaithGikura)
-- **LinkedIn:**"https://www.linkedin.com/in/faith-gikura-127793280/ 
+- **GitHub:** https://github.com/FaithGikura
+- **LinkedIn:**https://www.linkedin.com/in/faith-gikura-127793280/ 
 - **Email:** faithnjerigikura@gmail.com
 - **Deployment**https://faithgikura.netlify.app/
 
