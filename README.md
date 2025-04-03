@@ -24,7 +24,7 @@ A visually appealing image gallery designed with smooth navigation, responsive l
 ## 📬 Contact Me  
 Let's connect! Feel free to reach out through:  
 - **GitHub:** https://github.com/FaithGikura
-- **LinkedIn:**https://www.linkedin.com/in/faith-gikura-127793280/ 
+- **LinkedIn:** https://www.linkedin.com/in/faith-gikura-127793280/ 
 - **Email:** faithnjerigikura@gmail.com
 - **Deployment**https://faithgikura.netlify.app/
 
