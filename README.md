@@ -26,7 +26,7 @@ Let's connect! Feel free to reach out through:
 - **GitHub:** https://github.com/FaithGikura
 - **LinkedIn:** https://www.linkedin.com/in/faith-gikura-127793280/ 
 - **Email:** faithnjerigikura@gmail.com
-- **Deployment**https://faithgikura.netlify.app/
+- **Deployment** https://faithgikura.netlify.app/
 
 ---
 
